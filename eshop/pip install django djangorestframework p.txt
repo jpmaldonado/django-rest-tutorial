@@ -1,0 +1,3 @@
+pip install django djangorestframework python-dotenv
+django-admin startproject eshop .
+python manage.py startapp api
